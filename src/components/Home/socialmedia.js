@@ -33,7 +33,7 @@ export default function socialmedia(){
             <Navlinks link={"https://github.com/Ishrathshaik123"} tagname={<AiFillGithub />}/>
             <Navlinks link={"https://x.com/ishrathshaik58"} tagname={<AiOutlineTwitter />} />
             <Navlinks link={"ishrathbanuushaik@gmail.com"} tagname={<AiFillMail />}/>
-            <Navlinks link={"www.linkedin.com/in/shaikishrathbanu"} tagname={<AiFillLinkedin />}/>
+            <Navlinks link={"www.linkedin.com/in/ShaikIshrathBanu"} tagname={<AiFillLinkedin />}/>
             <Navlinks link={"#"} tagname={<AiFillInstagram />}/>
             </ul>
           </Col>
