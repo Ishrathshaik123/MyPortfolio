@@ -34,7 +34,7 @@ export default function socialmedia(){
             <Navlinks link={"https://x.com/ishrathshaik58"} tagname={<AiOutlineTwitter />} />
             <Navlinks link={"ishrathbanuushaik@gmail.com"} tagname={<AiFillMail />}/>
             <Navlinks link={"www.linkedin.com/in/shaikishrathbanu"} tagname={<AiFillLinkedin />}/>
-            <Navlinks link={"https://www.instagram.com/ishrathh/"} tagname={<AiFillInstagram />}/>
+            <Navlinks link={"#"} tagname={<AiFillInstagram />}/>
             </ul>
           </Col>
         </Row>
